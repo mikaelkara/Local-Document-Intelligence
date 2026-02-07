@@ -62,3 +62,22 @@ Bu proje, yüksek gizlilik gerektiren işler veya yoğun belge trafiği ile uğr
 ## 🧩 System Architecture
 
 ``
+📁 Klasör İzleme
+      │
+      ▼
+📄 Belge Alımı
+      │
+      ▼
+🧠 Belge Zekâsı (Metadata Extraction)
+      │
+      ▼
+🤖 Yapay Zekâ Sınıflandırıcı
+      │
+      ▼
+🔤 Yerel OCR İşleme
+      │
+      ▼
+🗂️ Otomatik Adlandırma & Düzenleme
+      │
+      ▼
+📦 Nihai Klasöre Aktarım
